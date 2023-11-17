@@ -1,9 +1,16 @@
 # Project Especifications Solicitel
 
 
-## Description
+## Description.
+In today’s business environment, efficiency and process optimization are critical to the success
+of any organization. However, many companies face wasted time and resources due to the
+lack of adequate systems to manage projects, budgets and related processes. In this context,
+SoliciTel is an innovative solution to address these challenges. The application focuses on the
+development of a comprehensive system that automates and simplifies project management,
+project management coordinator, procurement employees and management employee tasks,
+from the creation of a new project with an allocated budget, to the to the purchase of services or
+equipment needed for the project.
 
-Bienvenido a Project Especifications Solicitel, un proyecto emocionante que aborda la gestión de especificaciones para solicitudes en un entorno colaborativo. Este repositorio sirve como centro para organizar y mantener la documentación clave relacionada con las especificaciones del proyecto, facilitando la comunicación y colaboración entre los miembros del equipo.
 
 ## Evidence
 
